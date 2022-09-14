@@ -98,10 +98,6 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/RushlessWu/agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-# 示例图
-
-<img src="https://raw.githubusercontent.com/RushlessWu/agent/master/fodder/install/install.jpg" width=700>
-
 # 脚本来源
 
 - https://github.com/mack-a/v2ray-agent  v2.5.75
