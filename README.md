@@ -98,12 +98,6 @@
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/RushlessWu/agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-- shadowsocks 动态IP白名单模式【Beta】
-
-```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/RushlessWu/agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
-```
-
 # 示例图
 
 <img src="https://raw.githubusercontent.com/RushlessWu/agent/master/fodder/install/install.jpg" width=700>
