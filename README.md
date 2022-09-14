@@ -112,3 +112,4 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Rushl
 
 - https://github.com/mack-a/v2ray-agent  v2.5.75
 
+- 亲测可用,仅为以后安装方便
